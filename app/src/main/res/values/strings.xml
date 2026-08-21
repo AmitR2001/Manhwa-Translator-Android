@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Manhwa Translator</string>
+    <string name="start_translation">Start Translation</string>
+    <string name="stop_translation">Stop Translation</string>
+    <string name="notification_channel">Translation Service</string>
+    <string name="notification_text">Translating manhwa in the background</string>
+    <string name="download_model">Download Korean Language Pack</string>
+    <string name="downloading_model">Downloading…</string>
+    <string name="model_ready">Korean language pack ready</string>
+    <string name="model_failed">Download failed — check connection and try again</string>
+</resources>
